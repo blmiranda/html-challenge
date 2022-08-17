@@ -2,12 +2,12 @@
 
 Simple challenges to help practice te use of some semantic HTML and ...
 
-1. Glossary
+- [x] 1. Glossary
 
-2. Contact form
+- [ ] 2. Contact form
 
-3. Shopping list
+- [x] 3. Shopping list
 
-4. Quiz
+- [x] 4. Quiz
 
-5. Blog post
+- [x] 5. Blog post
