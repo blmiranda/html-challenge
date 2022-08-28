@@ -1,6 +1,6 @@
 # HTML Challenges
 
-Simple challenges to help practice te use of some semantic HTML and ...
+Simple challenges to help practice te use of some semantic HTML on ...
 
 - [x] 1. Glossary
 
