@@ -4,7 +4,7 @@ Simple challenges to help practice te use of some semantic HTML and ...
 
 - [x] 1. Glossary
 
-- [ ] 2. Contact form
+- [x] 2. Contact form
 
 - [x] 3. Shopping list
 
